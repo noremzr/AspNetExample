@@ -1,0 +1,12 @@
+D:\AspNetProject\BaseAspNetFramework\BaseAspnetFrameworkExtension\bin\Debug\BaseAspnetFrameworkExtension.dll.config
+D:\AspNetProject\BaseAspNetFramework\BaseAspnetFrameworkExtension\bin\Debug\BaseAspnetFrameworkExtension.dll
+D:\AspNetProject\BaseAspNetFramework\BaseAspnetFrameworkExtension\bin\Debug\BaseAspnetFrameworkExtension.pdb
+D:\AspNetProject\BaseAspNetFramework\BaseAspnetFrameworkExtension\bin\Debug\Dapper.dll
+D:\AspNetProject\BaseAspNetFramework\BaseAspnetFrameworkExtension\bin\Debug\Dapper.xml
+D:\AspNetProject\BaseAspNetFramework\BaseAspnetFrameworkExtension\obj\Debug\BaseAspnetFrameworkExtension.csproj.AssemblyReference.cache
+D:\AspNetProject\BaseAspNetFramework\BaseAspnetFrameworkExtension\obj\Debug\BaseAspnetFrameworkExtension.csproj.CoreCompileInputs.cache
+D:\AspNetProject\BaseAspNetFramework\BaseAspnetFrameworkExtension\obj\Debug\BaseAspnetFrameworkExtension.csproj.CopyComplete
+D:\AspNetProject\BaseAspNetFramework\BaseAspnetFrameworkExtension\obj\Debug\BaseAspnetFrameworkExtension.dll
+D:\AspNetProject\BaseAspNetFramework\BaseAspnetFrameworkExtension\obj\Debug\BaseAspnetFrameworkExtension.pdb
+D:\AspNetProject\BaseAspNetFramework\BaseAspnetFrameworkExtension\bin\Debug\Newtonsoft.Json.dll
+D:\AspNetProject\BaseAspNetFramework\BaseAspnetFrameworkExtension\bin\Debug\Newtonsoft.Json.xml
